@@ -1,3 +1,3 @@
 # Java-Interview-Top50-Questions
-# Checkout Master Branch for code solutions
+# Please Do Checkout Master Branch for code solutions
 In this repository, I will provide "Java Interview Top50 Questions" . Questions and Codes...

@@ -3,6 +3,7 @@ package Java50;
 public class RemoveWhiteSpaces {
     public static void main(String[] args) {
         String input = "Hi   Welcome to the      Code  PressS  community    ";
+        // input.replace(" ","");
         System.out.println(removeWhiteSpaces(input));
         // input = input.replaceAll("\\s", ""); --> Use this Also
     }

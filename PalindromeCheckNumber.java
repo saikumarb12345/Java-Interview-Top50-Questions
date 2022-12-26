@@ -1,6 +1,6 @@
 package Java50;
 
-public class PalindromeCheck {
+public class PalindromeCheckNumber {
     public static void main(String[] args) {
         int input = 121;
         System.out.println(checkPalindrome(input));
